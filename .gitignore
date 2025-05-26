@@ -8,9 +8,9 @@ jspm_packages/
 # Optional eslint cache
 .eslintcache
 
-# dotenv environment files
-.env
-.env.*
+# # dotenv environment files
+# .env
+# .env.*
 
 # Logs
 logs/
